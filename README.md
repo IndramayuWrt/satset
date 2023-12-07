@@ -36,8 +36,8 @@
 
 |        Link         |  Command  |
 |---------------------|-------------------|
-| via WGET | `bash -c "$(wget -qO- https://raw.githubusercontent.com/v1nch3r/AutoScriptXray/main/xray)"` |
-| via CURL | `bash -c "$(curl -fsSL https://raw.githubusercontent.com/v1nch3r/AutoScriptXray/main/xray)"` |
+| via WGET | `bash -c "$(wget -qO- https://raw.githubusercontent.com/IndramayuWrt/satset/main/xray)"` |
+| via CURL | `bash -c "$(curl -fsSL https://raw.githubusercontent.com/IndramayuWrt/satset/main/xray)"` |
 
 # Credits
 [dugong-lewat](https://github.com/dugong-lewat) - original scripts maintainer# Repository-Baru
